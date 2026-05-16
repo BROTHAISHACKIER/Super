@@ -1,6 +1,6 @@
 assert(getscriptbytecode, "Exploit not supported.")
 
-local API = "https://raw.githubusercontent.com/BROTHAISHACKIER/Super/refs/heads/main"
+local API = "http://api.plusgiant5.com"
 
 local last_call = 0
 
